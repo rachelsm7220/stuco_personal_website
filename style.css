@@ -37,18 +37,6 @@ html {
     padding: 30px;
 }
 
-
-.header{
-  background-color: white;
-  color: #0200e7;
-  font-family: Arial;
-  font-size: 28pt;
-  font-style:normal;
-  padding: 50px;
-  text-align: center; 
-}
-
-
 .about-img{
   display: inline-block;
   padding: 20px;
