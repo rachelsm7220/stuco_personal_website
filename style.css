@@ -42,10 +42,10 @@ html {
   background-color: white;
   color: #0200e7;
   font-family: Arial;
-  font-size: 36pt;
+  font-size: 28pt;
   font-style:normal;
-  padding: 40px;
-  text-align: left; 
+  padding: 50px;
+  text-align: center; 
 }
 
 
@@ -53,6 +53,7 @@ html {
   float: left;
   display: inline;
   padding: 20px;
+  padding-left: 100px;
 }
 
 .about-txt{
@@ -60,9 +61,9 @@ html {
   color: black;
   font-family: Arial;
   font-size: 16pt;
-  padding: 40px;
-  padding-left: 550px;
-  padding-right:80px;
+  padding: 20px;
+  padding-left: 650px;
+  padding-right: 100px; 
   text-align: center;
 }
 
@@ -79,6 +80,5 @@ html {
     font-size: 16pt;
   }
 }
-
 
 
