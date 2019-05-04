@@ -64,10 +64,16 @@ html {
   padding: 20px;
   padding-left: 650px;
   padding-right: 100px; 
+  padding-bottom: 180px;
   text-align: center;
 }
 
 /* Footer */
+footer {
+    display:block;
+    width:100%;
+    padding: 50px;
+}
 
 .links{
     width: 100%;
@@ -76,7 +82,7 @@ html {
     background: #0200e7;
     position:static}
 
-.links > .element{
+.links > .element2{
     width:24%;
     line-height: 50px;
     text-align: center;
@@ -85,7 +91,7 @@ html {
     margin: 0;
     text-decoration: none;}
 
-.links > .element:hover{
+.links > .element2:hover{
     cursor: :pointer;
     background: #ffcc33;
 }
@@ -100,7 +106,13 @@ html {
   .about-text{
     padding-left: 0;
     font-size: 16pt;
+  }
 }
+
+
+
+
+
 
 
 
