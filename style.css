@@ -16,7 +16,7 @@
     color: white;
     display: inline-block;
     margin: 0;
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Saira+Extra+Condensed', cursive;
     text-decoration: none;
 }
 
@@ -39,7 +39,7 @@
 .header{
   background-color: white;
   color: #395e60;
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Muli', cursive;
   font-size: 3em;
   font-style: bold;
   padding: 20px;
@@ -58,7 +58,7 @@
 .about-text{
   background-color: white;
   color: DimGrey;
-  font-family: Tahoma;
+  font-family: Muli;
   font-size: 1.15em;
   padding: 20px;
   padding-left: 50px;
