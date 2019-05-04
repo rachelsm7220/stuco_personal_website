@@ -1,4 +1,4 @@
-/* Navigation Bar*/
+* Navigation Bar*/
 
 .navbar{
     width: 100%;
@@ -10,13 +10,13 @@
     }
 
 .navbar > .element{
-    width: 24%;
+    width: 25%;
     line-height: 50px;
     text-align: center;
     color: white;
     display: inline-block;
     margin: 0;
-    font-family: 'Saira+Extra+Condensed', cursive;
+    font-family: 'Saira Extra Condensed', cursive;
     text-decoration: none;
 }
 
@@ -39,7 +39,7 @@
 .header{
   background-color: white;
   color: #395e60;
-  font-family: 'Muli', cursive;
+  font-family: Muli, cursive;
   font-size: 3em;
   font-style: bold;
   padding: 20px;
@@ -78,5 +78,6 @@
     font-size: 0.85em;
   }
 }
+
 
 
