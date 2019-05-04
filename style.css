@@ -50,8 +50,7 @@ html {
 
 
 .about-img{
-  float: left;
-  display: inline;
+  display: inline-block;
   padding: 20px;
   padding-left: 100px;
 }
