@@ -29,7 +29,7 @@ html {
 }
 
 
-/* Page Style */
+/* Page */
 
 .empty-box{
     background-color: white;
@@ -67,6 +67,28 @@ html {
   text-align: center;
 }
 
+/* Footer */
+
+.links{
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    background: #0200e7;
+    position:static}
+
+.links > .element{
+    width:24%;
+    line-height: 50px;
+    text-align: center;
+    color:#ffffff;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none;}
+
+.links > .element:hover{
+    cursor: :pointer;
+    background: #ffcc33;
+}
 
 @media screen and (max-width: 800px) {
   .about-image{
@@ -80,5 +102,8 @@ html {
     font-size: 16pt;
   }
 }
+
+
+
 
 
