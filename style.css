@@ -1,6 +1,6 @@
 /* Navigation Bar*/
 
-.nav-bar{
+.navbar{
     width: 100%;
     height: 50px;
     margin: 0;
@@ -9,7 +9,7 @@
     position: sticky;
     }
 
-.nav-bar > .element{
+.navbar > .element{
     width: 24%;
     line-height: 50px;
     text-align: center;
@@ -21,7 +21,7 @@
 }
 
 
-.nav-bar > .element:hover{
+.navbar > .element:hover{
   cursor: pointer;
   background: #0200e7;
 }
@@ -49,15 +49,15 @@
 
 /* About me section*/
 
-.about-image{
+.about-img{
   float: left;
   display: fixed;
-  padding: 15px;
+  padding: 10px;
 }
 
-.about-text{
+.about-txt{
   background-color: white;
-  color: DimGrey;
+  color: black;
   font-family: Muli;
   font-size: 1.15em;
   padding: 20px;
