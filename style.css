@@ -1,12 +1,11 @@
 html {
-    font-family: Proxima Nova, Arial, sans-serif;
+    font-family: 'Proxima Nova', 'Arial';
     background: #ffffff;
 
 }
 
-/* Navigation Bar*/
 
-.navbar{
+.navbar{ 
     width: 100%;
     height: 50px;
     margin: 0;
@@ -16,13 +15,13 @@ html {
     }
 
 .navbar > .element{
+    font-family: 'Proxima Nova', 'Arial', sans-serif;
     width: 25%;
     line-height: 50px;
     text-align: center;
     color: #ffffff;
     display: inline-block;
     margin: 0;
-    font-family: Proxima Nova, sans-serif;
     text-decoration: none;
 }
 
@@ -45,15 +44,13 @@ html {
 .header{
   background-color: white;
   color: #0200e7;
-  font-family: Arial, sans-serif;
+  font-family: arial;
   font-size: 36pt;
   font-style: bold;
   padding: 20px;
   text-align: center; 
 }
 
-
-/* About me section*/
 
 .about-img{
   float: left;
@@ -64,7 +61,7 @@ html {
 .about-txt{
   background-color: #ffffff;
   color: black;
-  font-family: Proxima Nova, sans-serif;
+  font-family: arial;
   font-size: 16pt;
   padding: 20px;
   padding-left: 50px;
